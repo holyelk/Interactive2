@@ -7,4 +7,4 @@ RM2 consists of a webcam that uses blob detection to draw on the wall.
 blobtraced_laser.py is without background extractor but still works.   
 blobtraced_laser_Cleaned .py is the cleaned code with background extractor.   
 RM2 demo v1: https://vimeo.com/509632987   
-RM2 demo v2: 
+RM2 demo v2: https://vimeo.com/512206362
