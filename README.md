@@ -13,3 +13,6 @@ RM3 consists of a smile detector and a snake game controlled by expressions. Bot
 cheese_feedback_combi_clean.py is the standard smile detector.   
 cheese_feedback_game_window1_clean.py is the first part of the program for the inputs of the expressions.   
 cheese_feedback_game_window2_clean.py is the second part of the program for the output to the snake game.   
+
+RM4 consists of code meant for the Raspberry Pi.
+Using the Raspberry Pi, it will detect faces and control a servo to face the direction of the face.
