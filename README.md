@@ -16,3 +16,8 @@ cheese_feedback_game_window2_clean.py is the second part of the program for the 
 
 RM4 consists of code meant for the Raspberry Pi.
 Using the Raspberry Pi, it will detect faces and control a servo to face the direction of the face.
+
+Semester Project consists of code meant for the Semester Project which is a physical project making use of the concept of Toy Story where toys stop moving when they see people.
+computer_clean.py is the code running on the attached computer.
+raspi_clean.py is the code running on the attached Raspberry Pi.
+Semester Project demo: https://vimeo.com/538103991
